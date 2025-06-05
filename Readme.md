@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-Project URL: https://roadmap.sh/projects/task-tracker  
+Project URL: https://roadmap.sh/projects/task-tracker
 A simple command-line interface (CLI) application to track and manage your tasks. Built with Python using native libraries and featuring a clean table display for better readability.
 
 ## Features
