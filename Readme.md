@@ -235,7 +235,3 @@ To enhance the application, consider adding:
 - Export/import capabilities
 - Configuration file support
 - Colored output for better visibility
-
-## License
-
-This project is open source and available under the MIT License.
